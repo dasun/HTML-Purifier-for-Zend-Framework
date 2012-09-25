@@ -1,2 +1,2 @@
-HTML-Purifier-for-Zend-Framework
+HTML Purifier for Zend Framework
 ================================
